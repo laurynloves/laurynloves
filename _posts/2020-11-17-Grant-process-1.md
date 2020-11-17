@@ -1,3 +1,3 @@
 # A (Lying) White Christmas 
 My project is called “ A (lying) White Christmas” . This is a mapping project using Omeka, it will show a flat map of the world and it will be decorated like christmas. There will be red pinpoints on the map that indicate where top grossing movies from 1999-2019 took place, for example (Home Alone- (Illinois and Pairs)). Then, when you scroll over the pinpoint there will be information such as, where the movie takes place, how much the movie made ( as in how many people saw it in theaters), how much it snowed in the movie and how much it actually snows in that region. I got the idea to do this because everyone watches christmas movies especially around this time of year and I think I can kill two birds with one stone with this project, make a cool project that also informs people about the world around us. 
-
+![Alt Text]https://laurynloves.github.io/laurynloves/images/
